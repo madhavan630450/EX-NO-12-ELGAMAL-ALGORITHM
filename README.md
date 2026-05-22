@@ -1,6 +1,6 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-### Name: Alan Samuel Vedanayagam
-### Reg. no:212223040012
+### Name: MARIMUTHU MATHAVAN
+### Reg. no:212224230153
 ### Date: 21-05-26
 
 ## AIM:
