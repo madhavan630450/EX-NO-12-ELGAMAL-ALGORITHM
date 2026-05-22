@@ -1,7 +1,7 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
 ### Name: MARIMUTHU MATHAVAN
 ### Reg. no:212224230153
-### Date: 21-05-26
+### Date: 22-05-26
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
